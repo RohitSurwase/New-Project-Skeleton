@@ -1,2 +1,2 @@
 # New Project Skeleton
-Basic skeleton of the new project.
+Basic skeleton for new projects.
